@@ -1,8 +1,6 @@
 # SI-GuidedProject-587985-1697708048
 
 Adversarial Defense using AutoEncoder, Block Switching & GradCAM
-GitHub follow GitHub follow GitHub repo size GitHub stars GitHub forks
-
 
 This system majorly focuses on static image input and defence architecture. Following are the characteristics of the proposed model:
 Combination of two models to effectively defend both Black box and White Box attack.
